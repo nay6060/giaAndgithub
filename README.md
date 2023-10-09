@@ -1,2 +1,2 @@
-##Hello Everyone, My name is Nay Thu Soe
+#Hello everyone, My name is Nay Thu Soe!
 
